@@ -17,7 +17,6 @@ log/
 *.local
 
 # Data (too large for regular GitHub pushes)
-data/raw/postings.csv
 
 # Tooling
 .qodo/
@@ -28,14 +27,3 @@ Thumbs.db
 
 # IDE (e.g., VS Code)
 .vscode/
-
-# Build artifacts
-dist/
-build/
-
-# IDE (e.g., VS Code)
-.vscode/
-
-# Build artifacts
-dist/
-build/
