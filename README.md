@@ -149,7 +149,7 @@ Domaines (losanges bleus) et compétences (points orange) projetés sur le plan 
 
 ```bash
 # 1. Cloner le projet
-git clone <url-du-repo>
+git clone <[url-du-repo](https://github.com/Godwin-08/AFC-Analyse-Factorielle-Correspondances)>
 cd AFC
 
 # 2. Créer et activer l'environnement virtuel
