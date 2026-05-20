@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+log/
+
+# Local config
+*.ini
+*.local
+
+# Data (too large for regular GitHub pushes)
+data/raw/postings.csv
+
+# Tooling
+.qodo/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE (e.g., VS Code)
+.vscode/
+
+# Build artifacts
+dist/
+build/
+
+# IDE (e.g., VS Code)
+.vscode/
+
+# Build artifacts
+dist/
+build/
