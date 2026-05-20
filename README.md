@@ -102,6 +102,22 @@ Les titres de postes ont été regroupés en **6 domaines homogènes** pour gara
 
 ### Associations principales identifiées
 
+| **Inertie cumulée Axes 1+2** | **56.2 %** |
+
+### Associations principales identifiées
+
+- **Axe 1 (29.2%) : Compétences Commerciales & Financières ↔ Compétences Techniques & Analytiques**
+  - Pôle positif (+) : Dominé par le **Commerce** et la **Finance** (`Sales`, `Accounting`).
+  - Pôle négatif (−) : Dominé par la **Tech**, la **Data** et la **Gestion de Projet** (`IT`, `Engineering`).
+
+- **Axe 2 (27.0%) : Spécialisation Finance/Comptabilité ↔ Fonctions Commerciales/RH**
+  - Pôle positif (+) : Forte spécialisation en **Finance & Compta**.
+  - Pôle négatif (−) : Orienté vers le **Marketing**, les **Ventes** et les **RH**.
+
+- **Finance & Compta** ↔ `Accounting/Auditing`, `Finance` — cluster très isolé, association forte et exclusive.
+- **Commerce & Marketing** ↔ `Sales`, `Business Development`, `Customer Service`, `Distribution`.
+
+
 - **Finance & Compta** ↔ `Accounting/Auditing`, `Finance` — cluster très isolé, association forte et exclusive.
 - **Commerce & Marketing** ↔ `Sales`, `Business Development`, `Customer Service`, `Distribution`.
 - **Tech & Ingénierie** / **Data & Analyse** ↔ `Information Technology` — deux domaines proches, partageant des compétences transverses.
