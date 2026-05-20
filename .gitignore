@@ -27,3 +27,5 @@ Thumbs.db
 
 # IDE (e.g., VS Code)
 .vscode/
+
+data/raw/postings.csv
